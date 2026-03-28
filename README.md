@@ -1,0 +1,1 @@
+An AI-powered web application that analyzes resumes and matches them to relevant job roles using semantic search (FAISS + Sentence Transformers), with a built-in career advice chatbot powered by Groq (Llama 3).
